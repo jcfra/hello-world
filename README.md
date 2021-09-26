@@ -1,2 +1,2 @@
 # hello-world
-Following Github guide
+Following Github guide to understand the branch work
